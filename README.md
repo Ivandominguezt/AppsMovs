@@ -1,6 +1,6 @@
 # Mi primer repositorio
 
-Hola, soy [tu nombre].
+Hola, soy [Ivan Dominguez].
 Estoy aprendiendo Git y GitHub.
 
 ## Objetivo
@@ -12,3 +12,5 @@ git init (Inicia un repositorio Git)
 
 Comando 2:
 git add README.md (Prepara un archivo para un commit)
+
+Editando...
